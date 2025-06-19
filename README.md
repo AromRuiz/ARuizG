@@ -42,7 +42,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">EVE-GO</h3>
 <div align="center">                                       
 <a><img src="https://i.imgur.com/u83NVzO.png" width="400"></a>
 <br>
