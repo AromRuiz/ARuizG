@@ -1,4 +1,3 @@
-# ARuizG
 <h1 align="center">Hi 👋, I'm Arom Ruiz</h1>
 <h3 align="center">A video game developer from Peru</h3>
 
